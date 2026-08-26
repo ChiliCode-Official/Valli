@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- Background with Valli Ink -->
+  <rect width="512" height="512" fill="#171714" rx="100"/>
+  
+  <!-- Outer subtle border with Valli Sand -->
+  <rect x="24" y="24" width="464" height="464" fill="none" stroke="#D8C7AA" stroke-width="4" stroke-opacity="0.3" rx="80"/>
+  
+  <!-- Stylized Elegant "V" in Valli Bone and Clay -->
+  <text x="50%" y="62%" font-family="Georgia, 'Instrument Serif', serif" font-size="300" font-weight="normal" fill="#F4F0E7" text-anchor="middle" dominant-baseline="middle">
+    V
+  </text>
+
+  <!-- Dot in Valli Clay -->
+  <circle cx="360" cy="380" r="18" fill="#A75536" />
+</svg>
